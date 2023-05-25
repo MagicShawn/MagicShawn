@@ -3,8 +3,9 @@
 <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=MagicShawn&show_icons=true&theme=radical&hide=contribs,prs" />
 </div>
-- 📫 How to reach me 
-- ***1056472710@qq.com***
+- 📫 How to reach me -
+
+***1056472710@qq.com***
 
 - ⚡ Fun fact **funny guy**
 
