@@ -5,7 +5,8 @@
 </div>
 - 📫 How to reach me -
 
-***1056472710@qq.com***
+***mgshawn@qq.com***
+***mgshawn.t@gmail.com***
 
 - ⚡ Fun fact **funny guy**
 
