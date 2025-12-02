@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MGshawn</h1>
-<h3 align="center">🤖 Graduate Student in Robotics @ <a href="http://en.hit.edu.cn/" target="_blank">Harbin Institute of Technology (HIT)</a></h3>
+<h3 align="center">🤖 Student in Robotics @ <a href="http://en.hit.edu.cn/" target="_blank">Harbin Institute of Technology (HIT)</a></h3>
 
 <p align="center">
   <a href="mailto:mgshawn@qq.com">
@@ -18,14 +18,6 @@
 - 🎓 Research Interest: **Robotics, Computer Vision, Embedded Systems**
 - ⚡ Fun fact: **Coding with a robot arm beside me 🦾**
 
-
-### 📊 GitHub Stats
-
-<!-- 这里使用了你要求的 Markdown 语法，并将用户名设置为 MGshawn -->
-<!-- 如果图片不显示，请确认你的 GitHub 用户名是否真的是 MGshawn -->
-
-[![MagicShawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagicShawn&show_icons=true&theme=radical&count_private=true)](https://github.com/MagicShawn)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagicShawn&layout=compact&theme=radical&hide=html,css)](https://github.com/MagicShawn)
 
 
 ### 🛠 Languages and Tools
