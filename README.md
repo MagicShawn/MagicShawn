@@ -24,21 +24,21 @@
 
 ### 👨‍🎓 About Me
 
-I'm a **Robotics Engineering Master's student** at Harbin Institute of Technology, passionate about intelligent robotics systems and autonomous navigation. My research focuses on bridging the gap between simulation and real-world deployment for robotic systems.
+I'm a **Robotics Engineering Master's student** at Harbin Institute of Technology, passionate about intelligent robotics systems and autonomous navigation. I focus on practical implementation and optimization of robotics algorithms for real-world applications.
 
 - 🎓 **Education**: M.Eng in Robotics Engineering, Harbin Institute of Technology
-- 🔬 **Research Areas**: Motion Planning, SLAM, Control Systems, Edge AI Deployment
-- 🚀 **Current Focus**: Learning-based planning algorithms and their deployment on edge devices (RK3588, Jetson)
-- 💡 **Interests**: Robotics, Computer Vision, Embedded Systems, Deep Learning
-- ⚡ **Fun Fact**: I enjoy building robots that can navigate complex environments autonomously
+- 🔬 **Focus Areas**: Motion planning optimization, edge AI deployment, robotics system integration
+- 🚀 **Current Work**: Optimizing learning-based planners for RK3588 and Jetson platforms
+- 💡 **Interests**: Robotics, Computer Vision, Embedded Systems, Open Source Tools
+- ⚡ **Fun Fact**: I enjoy working on robotics projects that bridge simulation and real-world deployment
 
 ### 📚 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[YOPO_RK3588](https://github.com/MagicShawn/YOPO_RK3588)** | Learning-based one-stage planner for autonomous navigation | Python, PyTorch, ROS, RKNN |
-| **[OpenClaw](https://github.com/openclaw/openclaw)** | AI assistant automation platform | TypeScript, Node.js, Python |
-| **[更多项目...](https://github.com/MagicShawn?tab=repositories)** | Check out my other repositories | Various |
+| Project | Description | Status |
+|---------|-------------|--------|
+| **[YOPO_RK3588](https://github.com/MagicShawn/YOPO_RK3588)** | Forked repository - Learning-based planner with RK3588 deployment optimizations | Active maintenance |
+| **[OpenClaw](https://github.com/openclaw/openclaw)** | AI assistant automation platform (contributor) | Active contributor |
+| **[更多项目...](https://github.com/MagicShawn?tab=repositories)** | Check out my other repositories and forks | Various |
 
 ### 🛠 Technical Skills
 
@@ -88,22 +88,14 @@ I'm a **Robotics Engineering Master's student** at Harbin Institute of Technolog
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-### 📝 Academic & Research
+### 🔬 Research Interests
 
-#### **Publications**
-- **You Only Plan Once: A Learning-Based One-Stage Planner With Guidance Learning**  
-  *IEEE Robotics and Automation Letters, 2024*  
-  [📄 Paper](https://ieeexplore.ieee.org/document/10528860) | [💻 Code](https://github.com/MagicShawn/YOPO_RK3588)
+My research focuses on practical applications of robotics and AI technologies:
 
-- **YOPOv2-Tracker: An End-to-End Agile Tracking and Navigation Framework from Perception to Action**  
-  *arXiv, 2025*  
-  [📄 Paper](https://arxiv.org/html/2505.06923v1)
-
-#### **Research Interests**
-- **Motion Planning**: Learning-based planners, real-time trajectory optimization
-- **SLAM**: Visual-inertial odometry, multi-sensor fusion
-- **Edge AI**: Model compression, quantization, deployment on embedded platforms
-- **Control Systems**: Model predictive control, adaptive control for robotics
+- **Motion Planning**: Real-time trajectory optimization for autonomous systems
+- **Edge AI Deployment**: Model optimization and deployment on embedded platforms (RK3588, Jetson)
+- **Robotics Systems**: Integration of perception, planning, and control
+- **Open Source Tools**: Contributing to and utilizing open-source robotics frameworks
 
 ### 🏆 GitHub Trophies
 <p align="center">
